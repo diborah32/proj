@@ -237,7 +237,7 @@ int main() {
 
     do {
         cout << "\n--- Contact Management System ---\n";
-        cout << "1. Add a New Contact\n";
+        cout << "1. Adding New Contact\n";
         cout << "2. View All Contacts\n";
         cout << "3. Edit a Contact\n";
         cout << "4. Delete a Contact\n";
